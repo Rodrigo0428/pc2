@@ -1,0 +1,51 @@
+﻿@model AppBanco.Models.Cuenta
+@{
+    ViewData["Title"] = "Crear Cuenta Bancaria";
+}
+
+@using (Html.BeginForm("Create", "CuentaBancaria", FormMethod.Post))
+{
+    <section>
+        <fieldset>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <h1 class="display-6 fw-bold text-center">@ViewData["Title"]</h1>
+                        <form asp-controller="CuentaBancaria" id="formulario"> 
+                            <div class="mb-3">
+                                <label asp-for="NombreTitular" class="form-label">Nombre del Titular:</label>
+                                <input asp-for="NombreTitular" class="form-control" type="text" placeholder="Ingrese el nombre del titular" aria-label="Nombre del Titular" required/>
+                                <span asp-validation-for="NombreTitular" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="TipoCuenta" class="form-label">Tipo de Cuenta:</label>
+                                <input asp-for="TipoCuenta" class="form-control" placeholder="Ingrese el tipo de cuenta" aria-label="Tipo de Cuenta" required/>
+                                <span asp-validation-for="TipoCuenta" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Saldo" class="form-label">Saldo:</label>
+                                <input asp-for="Saldo" class="form-control" type="number" placeholder="Ingrese el saldo" aria-label="Saldo" required/>
+                                <span asp-validation-for="Saldo" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="correo" class="form-label">Correo Electrónico:</label>
+                                <input asp-for="correo" class="form-control" placeholder="Ingrese el correo electrónico" aria-label="Correo Electrónico"/>
+                                <span asp-validation-for="correo" class="text-danger"></span>
+                            </div>
+
+                            <div class="text-center">
+                                <button type="submit" class="btn btn-primary btn-lg">Crear Cuenta Bancaria</button> 
+                            </div>
+                        </form>
+                        <div class="text-center mt-3">
+                                <h2>@ViewData["Message"]</h2>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+    </section>
+}
