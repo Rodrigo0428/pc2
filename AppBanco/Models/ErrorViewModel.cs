@@ -1,4 +1,4 @@
-namespace pc2.Models;
+namespace AppBanco.Models;
 
 public class ErrorViewModel
 {

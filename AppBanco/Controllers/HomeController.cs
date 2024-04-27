@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using pc2.Models;
+using AppBanco.Models;
 
-namespace pc2.Controllers;
+namespace AppBanco.Controllers;
 
 public class HomeController : Controller
 {
