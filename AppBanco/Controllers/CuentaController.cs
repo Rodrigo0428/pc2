@@ -30,7 +30,7 @@ namespace AppBanco.Controllers
         }
 
         [HttpPost]
-        public IActionResult EnviarMensaje(cuenta objcontato)
+        public IActionResult EnviarMensaje(Cuenta objcontato)
         {
             _logger.LogDebug("Ingreso a Enviar Mensaje");
 
