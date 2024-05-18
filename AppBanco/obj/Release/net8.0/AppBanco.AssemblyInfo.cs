@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppBanco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f9c6fb0cbdd8ee1eac7a32a24524dcead2c5ebe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa036117ecde05ea4558e0ae562d83eed10a947")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppBanco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppBanco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

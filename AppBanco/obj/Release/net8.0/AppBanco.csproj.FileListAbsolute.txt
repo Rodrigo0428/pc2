@@ -144,3 +144,8 @@ C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\AppBanco.d
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\AppBanco.runtimeconfig.json
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\appsettings.Development.json
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\appsettings.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\out\web.config
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\out\AppBanco.deps.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\out\AppBanco.runtimeconfig.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\out\appsettings.Development.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\bin\Release\net8.0\out\out\appsettings.json
