@@ -1,6 +1,21 @@
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\AppBanco.exe
+<<<<<<< HEAD
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\appsettings.Development.json
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\appsettings.json
+=======
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\out\web.config
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\web.config
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\appsettings.Development.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\appsettings.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\AppBanco.deps.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\AppBanco.runtimeconfig.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\appsettings.Development.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\appsettings.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\out\AppBanco.deps.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\out\AppBanco.runtimeconfig.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\out\appsettings.Development.json
+C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\out\out\appsettings.json
+>>>>>>> 5baaea8182b5da3227b4b433a55c0c537166ff52
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\AppBanco.dll
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\AppBanco.deps.json
 C:\Users\RODRIGO\Desktop\PROGRA_I\pc2\AppBanco\out\AppBanco.runtimeconfig.json
